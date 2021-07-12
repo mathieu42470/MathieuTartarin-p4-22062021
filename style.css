@@ -350,7 +350,9 @@ a:hover {
     background-color: rgba(0, 0, 0, .5);
     width: 26px;
 }
-
+.text-ajouter{
+    font-size: 20px;
+}
 .nav-invert .navbar .nav {
     float: left;
 }
